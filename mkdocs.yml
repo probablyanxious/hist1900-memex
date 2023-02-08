@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Sophie's memex
 
 theme:
     name: 'material'
