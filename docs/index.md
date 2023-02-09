@@ -1,4 +1,4 @@
-##### Welcome, welcome! Thank you for taking a moment to peruse my memex. Here you will find both (somewhat) sensible and (mostly) nonsense notes that I've collected throughout the HIST1900c *History of the Internet* course!
+### Welcome, welcome! Thank you for taking a moment to peruse my memex. Here you will find both (somewhat) sensible and (mostly) nonsense notes that I've collected throughout the HIST1900c *History of the Internet* course!
 ---
 
 ###### Table of Contents
