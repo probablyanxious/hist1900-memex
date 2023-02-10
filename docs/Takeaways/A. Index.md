@@ -1,4 +1,4 @@
-###### In this section I will be going over in-class exercises and writing what I, believe it or not, takeaway from them. 
+#### In this section I will be going over in-class exercises and writing what I, believe it or not, takeaway from them. 
 
 From the experience in the Carleton Univeristy Book Arts Lab to the "unconference style" class we had on February 6th and everything in between, I will try and share my thoughts on these exercises and shared moments within the class.
 
