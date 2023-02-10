@@ -121,4 +121,4 @@ Maybe. But we can now see the decline in mental health as mankind becomes more a
 ---
 
 ### Tags
-#bush #annotations #tech
+[[ #bush #annotations #tech ]]
