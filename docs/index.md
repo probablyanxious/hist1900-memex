@@ -15,13 +15,13 @@
 
 - [[The Garden and the Stream]]
 
-**Takeaways** ([[website/Takeaways/A. Index]])
+**Takeaways** 
 
 - [[Book Lab Takeaways]]
 
 - [[Unconference Style Class]]
 
-**Thoughts** ([[website/Thoughts/A. Index]])
+**Thoughts** 
 
 - [[Clay Tablets and iPhones]]
 
