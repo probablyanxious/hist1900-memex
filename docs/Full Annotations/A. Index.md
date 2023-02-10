@@ -5,3 +5,5 @@ Beware the long notes and rambly thoughts.
 - [[As We May Think - Annotations]]
 
 - [[The Garden and the Stream - Annotations]]
+
+- [[How the Page Matters - Annotations]]
