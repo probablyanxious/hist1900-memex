@@ -15,6 +15,8 @@
 
 - [[The Garden and the Stream]]
 
+- [[How the Page Matters]]
+
 **Takeaways** 
 
 - [[Book Lab Takeaways]]
@@ -35,7 +37,9 @@
 
 - [[The Garden and the Stream - Annotations]]
 
+- [[How the Page Matters - Annotations]]
 
-![canvas](https://user-images.githubusercontent.com/113275183/217987174-6f593d5e-09c3-4cb4-b943-6e6dc727be6f.png)
+
+![canvas](https://user-images.githubusercontent.com/113275183/218152139-18a446a5-8d91-4b4e-8150-08779b7b494f.png)
 
 ( ͡❛ ͜ʖ ͡❛)
