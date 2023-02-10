@@ -11,6 +11,10 @@
 
 - [[Short history of the Printing Press]]
 
+- [[From Clay Tablets to Web]]
+
+- [[The Garden and the Stream]]
+
 **Takeaways** ([[website/Takeaways/A. Index]])
 
 - [[Book Lab Takeaways]]
@@ -23,7 +27,11 @@
 
 - [[The Printing Press]]
 
+- [[Untold Stories]]
+
 **Full, unprocessed annotations**
 
 - [[As We May Think - Annotations]]
+
+- [[The Garden and the Stream - Annotations]]
 
