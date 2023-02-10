@@ -4,7 +4,7 @@ creationDate: 2023-02-09
 annotationDate: 2023-02-10
 uri: https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
 ---
-# The Garden and the Stream: A Technopastoral
+# The Garden and the Stream: A Technopastoral - Annotations
 
 ##### Citation
 Caulfield, Mike. “The Garden and the Stream: A Technopastoral.” _Hapgood_ (blog), October 17, 2015. [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/).
