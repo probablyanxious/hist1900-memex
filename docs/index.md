@@ -1,6 +1,8 @@
 ### ✿ Welcome, welcome! Thank you for taking a moment to peruse my memex. Here you will find both (somewhat) sensible and (mostly) nonsense notes that I've collected throughout the HIST1900c *History of the Internet* course! ✿
 ---
 
+**Memex 2.0 Update brings you lots of fresh content!** Please see all notes marked with ✧･ﾟ: *✧･ﾟ:* ⁻ ᴺᴱᵂ *:･ﾟ✧*:･ﾟ✧ to see all the latest additions. We also have a brand new **starting point** which can help dive into the memex better, here you will also find a cohesive list of all updates.
+
 ##### Table of Contents
 
 **Source notes**
@@ -41,5 +43,7 @@
 
 
 ![canvas](https://user-images.githubusercontent.com/113275183/218152139-18a446a5-8d91-4b4e-8150-08779b7b494f.png)
+
+^ Pictured - 1.0 memex content map
 
 ( ͡❛ ͜ʖ ͡❛)
