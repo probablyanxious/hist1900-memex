@@ -1,7 +1,10 @@
----
+
 Title: When Computers Were Women - Source Note
+
 date: 2023-03-06
+
 type: reference
+
 ---
 
 
