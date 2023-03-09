@@ -6,4 +6,4 @@ type: permanent
 
 !! Warning: Messy & Nonsensical !!
 
-![[feb15 notes.png]]
+![image](https://user-images.githubusercontent.com/113275183/224111712-14fbdcc5-465e-4f1e-bfa4-f06e364a3912.png)
