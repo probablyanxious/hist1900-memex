@@ -1,7 +1,8 @@
----
+
 Title: Ignored in History, the women behind computing
 date: 2023-03-06
 type: literature
+
 ---
 
 ✿ This note couldn't be made without our classmate [Rowan](https://rowanegg.github.io/thememexofegg/), and more specifically, her sending me the article "[[When Computers Were Women]]" after I posed a question in class about this topic.  Please visit her memex and check out [her thoughts](https://rowanegg.github.io/thememexofegg/HiddenFigures.html) on this article as well!
