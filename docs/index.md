@@ -3,7 +3,7 @@
 
 **March 8th 2023 - Sophie's Memex 2.0 Update brings you lots of fresh content!** 
 
- ✿ Please see all notes marked with ⁻ ᴺᴱᵂ in the table of contents below to see all the latest additions. 
+ ✿ All notes marked with ⁻ ᴺᴱᵂ in the table of contents below are the 2.0 additions to the memex. 
 
  ✿ We also have a brand new **starting point** which can help dive into the memex better, here you will also find a cohesive list of all updates and changes.
 
