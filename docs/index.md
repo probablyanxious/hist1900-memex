@@ -60,6 +60,6 @@
 
 ![canvas](https://user-images.githubusercontent.com/113275183/218152139-18a446a5-8d91-4b4e-8150-08779b7b494f.png)
 
-##### Pictured Above - 1.0 memex content map
+Pɪᴄᴛᴜʀᴇᴅ Aʙᴏᴠᴇ - 1.0 ᴍᴇᴍᴇx ᴄᴏɴᴛᴇɴᴛ ᴍᴀᴘ
 
 ( ͡❛ ͜ʖ ͡❛)
