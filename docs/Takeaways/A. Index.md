@@ -6,3 +6,4 @@ What distinguishes my takeaways from the thoughts folder is that here I am focus
 
 - [[Book Lab Takeaways]]
 - [[Unconference Style Class]]
+- [[Feb 15 In Class Notes]]
