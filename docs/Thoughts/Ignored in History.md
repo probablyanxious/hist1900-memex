@@ -1,6 +1,8 @@
 
 Title: Ignored in History, the women behind computing
+
 date: 2023-03-06
+
 type: literature
 
 ---
