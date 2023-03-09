@@ -1,7 +1,8 @@
----
+
 Title: Recovery of Original Communication Cables
 date: 2023-02-15
 type: literature
+
 ---
 
 When we started discussing the laying of transatlantic cables in class (see related links for class notes), I couldn't help but start wondering about the recovery efforts that would be in place after the numerous failed attempts. 
