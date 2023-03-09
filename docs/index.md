@@ -1,7 +1,11 @@
 ### ✿ Welcome, welcome! Thank you for taking a moment to peruse my memex. Here you will find both (somewhat) sensible and (mostly) nonsense notes that I've collected throughout the HIST1900c *History of the Internet* course! ✿
 ---
 
-**March 8th 2023 - Sophie's Memex 2.0 Update brings you lots of fresh content!** Please see all notes marked with ✧･ﾟ: *✧･ﾟ:* ⁻ ᴺᴱᵂ *:･ﾟ✧*:･ﾟ✧ to see all the latest additions. We also have a brand new **starting point** which can help dive into the memex better, here you will also find a cohesive list of all updates.
+**March 8th 2023 - Sophie's Memex 2.0 Update brings you lots of fresh content!** 
+
+Please see all notes marked with ✧･ﾟ: *✧･ﾟ:* ⁻ ᴺᴱᵂ *:･ﾟ✧*:･ﾟ✧ to see all the latest additions. 
+
+We also have a brand new **starting point** which can help dive into the memex better, here you will also find a cohesive list of all updates.
 
 ---
 
