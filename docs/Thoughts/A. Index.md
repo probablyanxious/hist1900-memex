@@ -8,6 +8,6 @@ These are notes dedicated to thoughts that have come up during the course. Enjoy
 
 - [[Untold Stories]]
 
-- [[Ignored in History]]
+- [[Ignored in History]] ⁻ ᴺᴱᵂ 2.0
 
-- [[Recovery Efforts]]
+- [[Recovery Efforts]] ⁻ ᴺᴱᵂ 2.0
