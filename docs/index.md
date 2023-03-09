@@ -5,7 +5,7 @@
 
  ✿ All notes marked with ⁻ ᴺᴱᵂ in the table of contents below are the 2.0 additions to the memex. 
 
- ✿ We also have a brand new **starting point** which can help dive into the memex better, here you will also find a cohesive list of all updates and changes.
+ ✿ We also have a brand new **[[starting point]]** which can help dive into the memex better, here you will also find a cohesive list of all updates and changes.
 
 ---
 
@@ -25,11 +25,17 @@
 
 - [[How the Page Matters]]
 
+- [[Cable Recovery]] ⁻ ᴺᴱᵂ 
+
+- [[When Computers Were Women]] ⁻ ᴺᴱᵂ 
+
 **Takeaways** 
 
 - [[Book Lab Takeaways]]
 
 - [[Unconference Style Class]]
+
+- [[Feb 15 In Class Notes]] ⁻ ᴺᴱᵂ 
 
 **Thoughts** 
 
@@ -38,6 +44,10 @@
 - [[The Printing Press]]
 
 - [[Untold Stories]]
+
+- [[Recovery Efforts]] ⁻ ᴺᴱᵂ 
+
+- [[Ignored in History]] ⁻ ᴺᴱᵂ 
 
 **Full, unprocessed annotations**
 
@@ -50,6 +60,6 @@
 
 ![canvas](https://user-images.githubusercontent.com/113275183/218152139-18a446a5-8d91-4b4e-8150-08779b7b494f.png)
 
-^ Pictured - 1.0 memex content map
+##### Pictured Above - 1.0 memex content map
 
 ( ͡❛ ͜ʖ ͡❛)
