@@ -8,7 +8,7 @@ When we started discussing the laying of transatlantic cables in class (see rela
 
 A quick google search led me to a website published by Bill Burns, who writes about the development of cable retrieving techniques and also provides images of recovered pieces of cable covered in coral (so cool). He explains how there was extensive charting involved in the laying of cables and calculation using electronic measurements using the cable charts helps to locate them for retrieval.
 
-![[Pasted image 20230309115019.png]]
+![image](https://user-images.githubusercontent.com/113275183/224111827-13654f24-7551-44e3-8309-df74f254f903.png)
 ^ French Atlantic cable recovered in 1909 
 
 ---
