@@ -7,3 +7,7 @@ These are notes dedicated to thoughts that have come up during the course. Enjoy
 - [[The Printing Press]]
 
 - [[Untold Stories]]
+
+- [[Ignored in History]]
+
+- [[Recovery Efforts]]
