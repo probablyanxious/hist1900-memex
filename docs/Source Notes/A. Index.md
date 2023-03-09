@@ -8,5 +8,5 @@ This is where you will find what I've read and cited for each memex update.
 - [[Questions From A Worker Who Reads]]
 - [[Short history of the Printing Press]]
 - [[The Garden and the Stream]]
-- [[Cable Recovery]] ⁻ ᴺᴱᵂ 2.0
-- [[When Computers Were Women]] ⁻ ᴺᴱᵂ 2.0
+- [[Cable Recovery]] ⁻ ᴺᴱᵂ
+- [[When Computers Were Women]] ⁻ ᴺᴱᵂ
