@@ -10,3 +10,4 @@ This is where you will find what I've read and cited for each memex update.
 - [[The Garden and the Stream]]
 - [[Cable Recovery]] ⁻ ᴺᴱᵂ
 - [[When Computers Were Women]] ⁻ ᴺᴱᵂ
+- [[Submarine Telegraph Cables]] ⁻ ᴺᴱᵂ
