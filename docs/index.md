@@ -74,6 +74,7 @@
 
 - [[How the Page Matters - Annotations]]
 
+<br>
 
 ![canvas](https://user-images.githubusercontent.com/113275183/218152139-18a446a5-8d91-4b4e-8150-08779b7b494f.png)
 <br><sub>Pictured above: Memex 1.0 Map of Contents</sub>
