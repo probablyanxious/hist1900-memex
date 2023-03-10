@@ -93,3 +93,5 @@
 <br><sub>Pictured above: Memex 1.0 Map of Contents</sub>
 
 ( ͡❛ ͜ʖ ͡❛)
+
+p.s. Theory is cool
