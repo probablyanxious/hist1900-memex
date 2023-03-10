@@ -35,7 +35,6 @@
 - [[When Computers Were Women]] ⁻ ᴺᴱᵂ 
 
 <br>
-
 **Takeaways** 
 <br><sub>Here are some idea notes based on in-class experiences. Click [here](https://probablyanxious.github.io/hist1900-memex/Takeaways/A.%20Index/) for the index.</sub>
 
@@ -47,7 +46,6 @@
 - [[Feb 15 In Class Notes]] ⁻ ᴺᴱᵂ 
 
 <br>
-
 **Thoughts** 
 <br><sub>These are all my thoughts based on readings or connections I've made outside of class. Click [here](https://probablyanxious.github.io/hist1900-memex/Thoughts/A.%20Index/) for the index.</sub>
 
@@ -63,7 +61,6 @@
 - [[Ignored in History]] ⁻ ᴺᴱᵂ 
 
 <br>
-
 **Full, unprocessed annotations**
 <br><sub>Fairly self-explanatory- these are my annotations on certain readings in their full capacity. Click [here](https://probablyanxious.github.io/hist1900-memex/Full%20Annotations/A.%20Index/) for the index.</sub>
 
