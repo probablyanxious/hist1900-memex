@@ -17,7 +17,7 @@
 **Source notes**
 <br><sub>These are links to the bibliographic information on what I've read and linked for this memex. Click [here](https://probablyanxious.github.io/hist1900-memex/Source%20Notes/A.%20Index/) for the index.</sub>
 
-<br>
+
 - [[As We May Think]]
 
 - [[Questions From A Worker Who Reads]]
@@ -34,22 +34,24 @@
 
 - [[When Computers Were Women]] ⁻ ᴺᴱᵂ 
 
-
+<br>
 
 **Takeaways** 
 <br><sub>Here are some idea notes based on in-class experiences. Click [here](https://probablyanxious.github.io/hist1900-memex/Takeaways/A.%20Index/) for the index.</sub>
 
-<br>
+
 - [[Book Lab Takeaways]]
 
 - [[Unconference Style Class]]
 
 - [[Feb 15 In Class Notes]] ⁻ ᴺᴱᵂ 
 
+<br>
+
 **Thoughts** 
 <br><sub>These are all my thoughts based on readings or connections I've made outside of class. Click [here](https://probablyanxious.github.io/hist1900-memex/Thoughts/A.%20Index/) for the index.</sub>
 
-<br>
+
 - [[Clay Tablets and iPhones]]
 
 - [[The Printing Press]]
@@ -59,6 +61,8 @@
 - [[Recovery Efforts]] ⁻ ᴺᴱᵂ 
 
 - [[Ignored in History]] ⁻ ᴺᴱᵂ 
+
+<br>
 
 **Full, unprocessed annotations**
 <br><sub>Fairly self-explanatory- these are my annotations on certain readings in their full capacity. Click [here](https://probablyanxious.github.io/hist1900-memex/Full%20Annotations/A.%20Index/) for the index.</sub>
