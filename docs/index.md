@@ -67,7 +67,6 @@
 **Full, unprocessed annotations**
 <br><sub>Fairly self-explanatory- these are my annotations on certain readings in their full capacity. Click [here](https://probablyanxious.github.io/hist1900-memex/Full%20Annotations/A.%20Index/) for the index.</sub>
 
-<br>
 
 - [[As We May Think - Annotations]]
 
