@@ -2,17 +2,24 @@
 
 ---
 
-### Changes and updates / March 10th 2023
+##### Changes and updates / March 10th 2023
 
 **Feedback based changes/additions:**
+
 - More specific map of content  **→** Added subheadings to table of content with links to their index pages. 
+
 - More atomic notes  **→** Focused on increasing the volume of notes without losing content value, but kept them shorter to keep up with the idea of having "concise explorations" 
+
 - Include annotations  **→** Included annotations in notes!
 
 **Other changes:**
+
 - Made sure that dates are visible on notes, not just exclusively in metadata
+
 - Linked out to classmate's memex to provide interconnections
+
 - Created this starting point to make it easier to navigate!
+
 - 5+ source notes added, atomic/idea notes as appropriate - all marked as new for easy finding.
 
 
