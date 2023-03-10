@@ -11,3 +11,5 @@ These are notes dedicated to thoughts that have come up during the course. Enjoy
 - [[Ignored in History]] ⁻ ᴺᴱᵂ
 
 - [[Recovery Efforts]] ⁻ ᴺᴱᵂ
+
+- [[Gutta Percha]] ⁻ ᴺᴱᵂ
