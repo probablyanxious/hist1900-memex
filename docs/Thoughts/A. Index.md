@@ -18,3 +18,5 @@ These are notes dedicated to thoughts that have come up during the course. Enjoy
 
 - [[Connection to Memex]] ⁻ ᴺᴱᵂ
 
+- [[IBM's Questionable History]] ⁻ ᴺᴱᵂ
+
