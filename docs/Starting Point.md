@@ -1,8 +1,8 @@
-<u> New and Improved with the launch of Sophie's Memex 2.0 !</u>
+✿ New and Improved with the launch of Sophie's Memex 2.0!
 
 ---
 
-##### Changes and updates / March 10th 2023
+### Changes and updates / March 10th 2023
 
 **Feedback based changes/additions:**
 - More specific map of content  **→** Added subheadings to table of content with links to their index pages. 
@@ -16,7 +16,7 @@
 - 5+ source notes added, atomic/idea notes as appropriate - all marked as new for easy finding.
 
 
-##### Start Here!
+### Start Here!
 
 This memex is a collection of experiences, thoughts, readings, and more related to Dr. Graham's History of the Internet (HIST1900c) course at Carleton University.
 
