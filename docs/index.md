@@ -36,6 +36,10 @@
 
 - [[Submarine Telegraph Cables]] ⁻ ᴺᴱᵂ
 
+- [[What would Alan Turing have done after 1954]] ⁻ ᴺᴱᵂ
+
+- [[Alan Turing’s Forgotten Ideas in Computer Science]] ⁻ ᴺᴱᵂ
+
 <br>
 **Takeaways** 
 <br><sub>Here are some idea notes based on in-class experiences. Click [here](https://probablyanxious.github.io/hist1900-memex/Takeaways/A.%20Index/) for the index.</sub>
