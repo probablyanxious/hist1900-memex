@@ -34,6 +34,8 @@
 
 - [[When Computers Were Women]] ⁻ ᴺᴱᵂ 
 
+- [[Submarine Telegraph Cables]] ⁻ ᴺᴱᵂ
+
 <br>
 **Takeaways** 
 <br><sub>Here are some idea notes based on in-class experiences. Click [here](https://probablyanxious.github.io/hist1900-memex/Takeaways/A.%20Index/) for the index.</sub>
@@ -59,6 +61,8 @@
 - [[Recovery Efforts]] ⁻ ᴺᴱᵂ 
 
 - [[Ignored in History]] ⁻ ᴺᴱᵂ 
+
+- [[Gutta Percha]] ⁻ ᴺᴱᵂ
 
 <br>
 **Full, unprocessed annotations**
