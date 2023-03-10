@@ -13,3 +13,8 @@ These are notes dedicated to thoughts that have come up during the course. Enjoy
 - [[Recovery Efforts]] ⁻ ᴺᴱᵂ
 
 - [[Gutta Percha]] ⁻ ᴺᴱᵂ
+
+- [[Alan Turing]] ⁻ ᴺᴱᵂ
+
+- [[Connection to Memex]] ⁻ ᴺᴱᵂ
+
