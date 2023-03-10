@@ -40,6 +40,8 @@
 
 - [[Alan Turing’s Forgotten Ideas in Computer Science]] ⁻ ᴺᴱᵂ
 
+- [[IBM and Germany 1922–1941]] ⁻ ᴺᴱᵂ
+
 <br>
 **Takeaways** 
 <br><sub>Here are some idea notes based on in-class experiences. Click [here](https://probablyanxious.github.io/hist1900-memex/Takeaways/A.%20Index/) for the index.</sub>
@@ -71,6 +73,8 @@
 - [[Alan Turing]] ⁻ ᴺᴱᵂ
 
 - [[Connection to Memex]] ⁻ ᴺᴱᵂ
+
+- [[IBM's Questionable History]] ⁻ ᴺᴱᵂ
 
 <br>
 **Full, unprocessed annotations**
