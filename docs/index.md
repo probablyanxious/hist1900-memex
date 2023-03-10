@@ -15,7 +15,7 @@
 ##### Table of Contents
 
 **Source notes**
-<sub>[Source notes](https://probablyanxious.github.io/hist1900-memex/Source%20Notes/A.%20Index/) are where you will find the bibliographic information on what I've read and linked for this memex.</sub>
+<br><sub>[Source notes](https://probablyanxious.github.io/hist1900-memex/Source%20Notes/A.%20Index/) are where you will find the bibliographic information on what I've read and linked for this memex.</sub><br>
 
 - [[As We May Think]]
 
