@@ -40,7 +40,7 @@
 
 - [[Cable Recovery]] 
 
-- [[When Computers Were Women]] *Sourced via [Rowan E's Memex](https://rowanegg.github.io/thememexofegg/HiddenFigures.html)!*
+- [[When Computers Were Women]] <sub>*Sourced via [Rowan E's Memex](https://rowanegg.github.io/thememexofegg/HiddenFigures.html)!*</sub>
 
 - [[Submarine Telegraph Cables]]
 
@@ -50,7 +50,7 @@
 
 - [[IBM and Germany 1922–1941]] 
 
-- [[Prehistory of Social Media]] ⁻ ᴺᴱᵂ *Sourced via [Eric H's memex](https://erichobson.com/memex/note/A-Prehistory-of-Social-Media-Kevin-Driscoll)!*  
+- [[Prehistory of Social Media]] ⁻ ᴺᴱᵂ <sub>*Sourced via [Eric H's memex](https://erichobson.com/memex/note/A-Prehistory-of-Social-Media-Kevin-Driscoll)!*</sub>  
 
 - [[My Secret Life]] ⁻ ᴺᴱᵂ
 
@@ -129,6 +129,9 @@
 
 ![canvas](https://user-images.githubusercontent.com/113275183/218152139-18a446a5-8d91-4b4e-8150-08779b7b494f.png)
 <br><sub>Pictured above: Memex 1.0 Map of Contents</sub>
+
+![image](https://user-images.githubusercontent.com/113275183/230811277-4dbc923c-a3ed-4678-a577-3aef5cf5fb24.png)
+<br><sub>Pictured above: Memex 3.0 Obsidian Graph View</sub>
 
 ( ͡❛ ͜ʖ ͡❛)
 
