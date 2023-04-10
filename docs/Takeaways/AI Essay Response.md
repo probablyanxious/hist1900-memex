@@ -14,8 +14,8 @@ Up until this point, I had not (to the best of my knowledge) read anything produ
 
 ### Annotations by the Class
 
-![[Pasted image 20230408135405.png]]
-*(Visual of text with highlighted portions by students)*
+![Pasted image 20230408135405](https://user-images.githubusercontent.com/113275183/230810053-c716f9ce-a2fe-4edc-8313-692e6a676ebc.png)
+*Vɪsᴜᴀʟ ᴏғ ᴛᴇxᴛ ᴡɪᴛʜ ʜɪɢʜʟɪɢʜᴛᴇᴅ ᴘᴏʀᴛɪᴏɴs ʙʏ sᴛᴜᴅᴇɴᴛs*
 
 **probablyanxious (me):** 
 
