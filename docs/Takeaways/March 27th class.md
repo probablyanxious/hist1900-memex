@@ -36,5 +36,5 @@ type: literature
 ### Related Links
 
 - [Link to class slides](https://shawngraham.github.io/hist1900/assets/slides/mar27#/11)
-- [[AI Essay Response]]
 - [[Thoughts on AI]]
+- [[AI Essay Response]]
