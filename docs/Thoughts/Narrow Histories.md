@@ -19,5 +19,5 @@ Driscoll, Kevin. “A Prehistory of Social Media.” _Issues in Science and Tec
 
 ### Related Links
 
-- [[A Prehistory of Social Media]]
+- [[Prehistory of Social Media]]
 - [[Thoughts on Prehistory of Social Media]]
