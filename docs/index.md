@@ -50,7 +50,7 @@
 
 - [[IBM and Germany 1922–1941]] 
 
-- [[A Prehistory of Social Media]] ⁻ ᴺᴱᵂ *Sourced via [Eric H's memex](https://erichobson.com/memex/note/A-Prehistory-of-Social-Media-Kevin-Driscoll)!*  
+- [[Prehistory of Social Media]] ⁻ ᴺᴱᵂ *Sourced via [Eric H's memex](https://erichobson.com/memex/note/A-Prehistory-of-Social-Media-Kevin-Driscoll)!*  
 
 - [[My Secret Life]] ⁻ ᴺᴱᵂ
 
