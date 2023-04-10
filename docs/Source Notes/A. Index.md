@@ -14,7 +14,7 @@ This is where you will find what I've read and cited for each memex update.
 - [[What would Alan Turing have done after 1954]] 
 - [[Alan Turing’s Forgotten Ideas in Computer Science]] 
 - [[IBM and Germany 1922–1941]]
-- [[A Prehistory of Social Media]] ⁻ ᴺᴱᵂ
+- [[Prehistory of Social Media]] ⁻ ᴺᴱᵂ
 - [[My Secret Life]] ⁻ ᴺᴱᵂ  
 - [[Now AI Can Write Students' Essays]] ⁻ ᴺᴱᵂ
 - [[Online Community of GeoCities]] ⁻ ᴺᴱᵂ
