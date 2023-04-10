@@ -12,6 +12,14 @@
 
 ---
 
+**April 9th 2023 - Sophie's Memex 3.0 Update brings us to an end of our journey here.** 
+
+ ✿ Once again, all notes marked with ⁻ ᴺᴱᵂ in the table of contents below are the latest additions to the memex. 
+
+ ✿ Stay tuned for the final journey note to wrap everything up with a nice bow on top. 
+
+---
+
 ##### Table of Contents
 
 **Source notes**
@@ -30,17 +38,27 @@
 
 - [[How the Page Matters]]
 
-- [[Cable Recovery]] ⁻ ᴺᴱᵂ 
+- [[Cable Recovery]] 
 
-- [[When Computers Were Women]] ⁻ ᴺᴱᵂ 
+- [[When Computers Were Women]] *Sourced via [Rowan E's Memex](https://rowanegg.github.io/thememexofegg/HiddenFigures.html)!*
 
-- [[Submarine Telegraph Cables]] ⁻ ᴺᴱᵂ
+- [[Submarine Telegraph Cables]]
 
-- [[What would Alan Turing have done after 1954]] ⁻ ᴺᴱᵂ
+- [[What would Alan Turing have done after 1954]] 
 
-- [[Alan Turing’s Forgotten Ideas in Computer Science]] ⁻ ᴺᴱᵂ
+- [[Alan Turing’s Forgotten Ideas in Computer Science]] 
 
-- [[IBM and Germany 1922–1941]] ⁻ ᴺᴱᵂ
+- [[IBM and Germany 1922–1941]] 
+
+- [[A Prehistory of Social Media]] ⁻ ᴺᴱᵂ *Sourced via [Eric H's memex](https://erichobson.com/memex/note/A-Prehistory-of-Social-Media-Kevin-Driscoll)!*  
+
+- [[My Secret Life]] ⁻ ᴺᴱᵂ
+
+- [[Now AI Can Write Students' Essays]] ⁻ ᴺᴱᵂ
+
+- [[Online Community of GeoCities]] ⁻ ᴺᴱᵂ
+
+- [[The Evolution of the Internet]] ⁻ ᴺᴱᵂ
 
 <br>
 **Takeaways** 
@@ -51,7 +69,15 @@
 
 - [[Unconference Style Class]]
 
-- [[Feb 15 In Class Notes]] ⁻ ᴺᴱᵂ 
+- [[Feb 15 In Class Notes]] 
+
+- [[AI Essay Response]] ⁻ ᴺᴱᵂ
+
+- [[April 3rd notes]] ⁻ ᴺᴱᵂ
+
+- [[March 13 class notes]] ⁻ ᴺᴱᵂ
+
+- [[March 27th class]] ⁻ ᴺᴱᵂ
 
 <br>
 **Thoughts** 
@@ -64,17 +90,29 @@
 
 - [[Untold Stories]]
 
-- [[Recovery Efforts]] ⁻ ᴺᴱᵂ 
+- [[Recovery Efforts]] 
 
-- [[Ignored in History]] ⁻ ᴺᴱᵂ 
+- [[Ignored in History]] 
 
-- [[Gutta Percha]] ⁻ ᴺᴱᵂ
+- [[Gutta Percha]] 
 
-- [[Alan Turing]] ⁻ ᴺᴱᵂ
+- [[Alan Turing]]
 
-- [[Connection to Memex]] ⁻ ᴺᴱᵂ
+- [[Connection to Memex]] 
 
-- [[IBM's Questionable History]] ⁻ ᴺᴱᵂ
+- [[IBM's Questionable History]] 
+
+- [[Early Internet As I Knew It]] ⁻ ᴺᴱᵂ
+
+- [[Email and Lost Communications]] ⁻ ᴺᴱᵂ
+
+- [[Narrow Histories]] ⁻ ᴺᴱᵂ
+
+- [[The web as a place]] ⁻ ᴺᴱᵂ
+
+- [[Thoughts on AI]] ⁻ ᴺᴱᵂ
+
+- [[Thoughts on Prehistory of Social Media]] ⁻ ᴺᴱᵂ
 
 <br>
 **Full, unprocessed annotations**
