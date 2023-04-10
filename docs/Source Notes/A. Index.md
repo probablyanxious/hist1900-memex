@@ -8,9 +8,14 @@ This is where you will find what I've read and cited for each memex update.
 - [[Questions From A Worker Who Reads]]
 - [[Short history of the Printing Press]]
 - [[The Garden and the Stream]]
-- [[Cable Recovery]] ⁻ ᴺᴱᵂ
-- [[When Computers Were Women]] ⁻ ᴺᴱᵂ
-- [[Submarine Telegraph Cables]] ⁻ ᴺᴱᵂ
-- [[What would Alan Turing have done after 1954]] ⁻ ᴺᴱᵂ
-- [[Alan Turing’s Forgotten Ideas in Computer Science]] ⁻ ᴺᴱᵂ
-- [[IBM and Germany 1922–1941]] ⁻ ᴺᴱᵂ
+- [[Cable Recovery]] 
+- [[When Computers Were Women]] 
+- [[Submarine Telegraph Cables]] 
+- [[What would Alan Turing have done after 1954]] 
+- [[Alan Turing’s Forgotten Ideas in Computer Science]] 
+- [[IBM and Germany 1922–1941]]
+- [[A Prehistory of Social Media]] ⁻ ᴺᴱᵂ
+- [[My Secret Life]] ⁻ ᴺᴱᵂ  
+- [[Now AI Can Write Students' Essays]] ⁻ ᴺᴱᵂ
+- [[Online Community of GeoCities]] ⁻ ᴺᴱᵂ
+- [[The Evolution of the Internet]] ⁻ ᴺᴱᵂ
