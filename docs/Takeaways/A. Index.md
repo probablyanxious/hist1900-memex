@@ -11,4 +11,3 @@ What distinguishes my takeaways from the thoughts folder is that here I am focus
 - [[April 3rd notes]] ⁻ ᴺᴱᵂ
 - [[March 13 class notes]] ⁻ ᴺᴱᵂ
 - [[March 27th class]] ⁻ ᴺᴱᵂ
-- 
