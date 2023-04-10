@@ -22,6 +22,12 @@
 
 - 5+ source notes added, atomic/idea notes as appropriate - all marked as new for easy finding.
 
+##### Changes and updates / April 9th 2023
+
+- Made outerlinkages to other student's work more apparent and easy to access
+
+- 5 source notes added, idea and atomic notes as appropriate.
+
 
 ### Start Here!
 
