@@ -8,15 +8,27 @@ These are notes dedicated to thoughts that have come up during the course. Enjoy
 
 - [[Untold Stories]]
 
-- [[Ignored in History]] ⁻ ᴺᴱᵂ
+- [[Ignored in History]] 
 
-- [[Recovery Efforts]] ⁻ ᴺᴱᵂ
+- [[Recovery Efforts]] 
 
-- [[Gutta Percha]] ⁻ ᴺᴱᵂ
+- [[Gutta Percha]] 
 
-- [[Alan Turing]] ⁻ ᴺᴱᵂ
+- [[Alan Turing]] 
 
-- [[Connection to Memex]] ⁻ ᴺᴱᵂ
+- [[Connection to Memex]] 
 
-- [[IBM's Questionable History]] ⁻ ᴺᴱᵂ
+- [[IBM's Questionable History]]
+
+- [[Early Internet As I Knew It]]  ⁻ ᴺᴱᵂ
+
+- [[Email and Lost Communications]]  ⁻ ᴺᴱᵂ
+
+- [[Narrow Histories]]  ⁻ ᴺᴱᵂ
+
+- [[The web as a place]]  ⁻ ᴺᴱᵂ
+
+- [[Thoughts on AI]]  ⁻ ᴺᴱᵂ
+
+- [[Thoughts on Prehistory of Social Media]]  ⁻ ᴺᴱᵂ
 
