@@ -19,6 +19,6 @@ This journey is meant to showcase the development in my note-taking and the grow
 
 >*note: my tag system was only implemented in obsidian. tags were removed from final pages uploaded to github due to the fact that they looked ugly*
 
+![Untitled video - Made with Clipchamp (2)](https://user-images.githubusercontent.com/113275183/234655879-cc57ba8d-97c1-488a-9b59-f6abee8dfa89.gif)
 
-![[Untitled video - Made with Clipchamp (2).gif]]
 <sub>^ Low quality gif I made of the Memex coming to be</sub>
