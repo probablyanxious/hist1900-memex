@@ -20,6 +20,14 @@
 
 ---
 
+**April 26th 2023 - The final update.**
+
+ ✿ [[0_Final Journey_1]]
+
+ ✿ [[0_Final Journey_2]]
+
+---
+
 ##### Table of Contents
 
 **Source notes**
